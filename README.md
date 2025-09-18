@@ -1,2 +1,0 @@
-# GitLabFinalTask
-Kai Ayesh Payesh
